@@ -1,1 +1,1 @@
-# Between-Two-Sets-algo
+# Between-Two-Sets-algo This program finds how many integers are “between” two sets: multiples of all numbers in list a and factors of all numbers in list b. It does this by calculating the LCM of list a, the GCD of list b, and then counting how many multiples of the LCM evenly divide the GCD.
